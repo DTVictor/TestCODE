@@ -15,4 +15,12 @@ namespace TESTCA
             //
         }
     }
+
+    public class Test : ITest
+    {
+        public void TestCall()
+        {
+            throw new NotImplementedException();
+        }
+    }
 }
