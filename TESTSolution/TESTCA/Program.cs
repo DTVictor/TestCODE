@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace TESTCA
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("HELLO WORLD!");
             Console.ReadLine();
+            //
         }
     }
 }
